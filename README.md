@@ -1,2 +1,2 @@
 # calculadora-sh-py
-calculador ebax
+calculador ebac
